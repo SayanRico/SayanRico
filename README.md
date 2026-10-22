@@ -137,7 +137,7 @@ A real-time messaging application built with Socket.IO, demonstrating frontend a
 
 **Technology:** JavaScript, Socket.IO, HTML, CSS
 
-**Repository:** [Real-Time-Chat-App](https://github.com/YOUR_GITHUB_USERNAME/Real-Time-Chat-App)
+**Repository:** [Real-Time-Chat-App](https://github.com/SayanRico/Real-Time-Chat-App)
 
 ---
 
@@ -172,8 +172,6 @@ A personal portfolio for presenting software projects, technical skills, and dev
 - Project presentation and documentation
 - Responsive user interface design
 - Deployment and maintainability
-
-**Repository:** [My-Portfolio](https://github.com/SayanRico/My-Portfolio)
 
 ---
 
